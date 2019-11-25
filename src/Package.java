@@ -1,3 +1,5 @@
+//Assignment github: https://github.com/Enn-Vee/State-Design-Pattern-Assignment
+
 /**
  * Package class with state variables and a name.
  * @author Nick Bautista
